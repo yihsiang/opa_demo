@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root product-version="12.2.7.790">
+  <entities>
+    <entity ref="global">
+      <attribute name="e997f023-c878-4430-ac94-58a4e25b26dd" type="boolean" validation-message="Invalid value.">
+        <text>
+          <base>the child is adopted</base>
+          <parse>s(ver('12.2.7.790'),v(be,t(simple,present,normal)),sb('the child',singular),o('adopted'))</parse>
+        </text>
+      </attribute>
+    </entity>
+  </entities>
+  <relationships />
+</root>
